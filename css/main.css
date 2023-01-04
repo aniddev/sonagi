@@ -170,7 +170,7 @@ del, s, strike {
 
 .sonagi .nav-wrapper {
     min-height: 4.8rem;
-    background-color: #236758;
+    background-color: #3f438b;
     z-index: 1001;
 }
 
@@ -239,7 +239,7 @@ del, s, strike {
 
 
 .item3 {
-    background: #236758;
+    background: #3f438b;
 }
 .mainNotice {
     position: relative;
@@ -264,7 +264,7 @@ del, s, strike {
 
 .login_wrap {
     position: relative;
-    border: 2px solid #236758;
+    border: 2px solid #3f438b;
     color: #333;
     background-color: #f2f0f0;
 }
@@ -276,20 +276,20 @@ del, s, strike {
 .user_info {
     line-height: 44px;
     font-size: 12px;
-    color: #236758;
+    color: #3f438b;
     padding: 15px 1px ;
     text-align: center;
 }
 
 
 .info_item {
-    color: #236758;
+    color: #3f438b;
     font-size: 16px;
 }
 
 .info_item2 {
     text-align: right;
-    color: #236758;
+    color: #3f438b;
 }
 
 .loging1 {
@@ -299,7 +299,7 @@ del, s, strike {
     content: " ";
     width: 14.9rem;
     display: block;
-    border-bottom: 2px solid #236758;
+    border-bottom: 2px solid #3f438b;
 }
 
 
@@ -326,7 +326,7 @@ del, s, strike {
 }
 
 .gg {
-    color: #236758;
+    color: #3f438b;
 }
 
 /* 검색 */
@@ -340,7 +340,7 @@ del, s, strike {
 .search_box {
     width: 100%;
     height: 50px;
-    border: 6px solid #236758;
+    border: 6px solid #3f438b;
     display: flex;
     margin-top: 20px;
     margin-bottom: 35px;
